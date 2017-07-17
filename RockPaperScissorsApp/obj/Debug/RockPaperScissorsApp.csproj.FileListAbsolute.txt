@@ -1,0 +1,6 @@
+C:\Users\Sergio\documents\visual studio 2017\Projects\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\RockPaperScissorsApp.exe.config
+C:\Users\Sergio\documents\visual studio 2017\Projects\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\RockPaperScissorsApp.exe
+C:\Users\Sergio\documents\visual studio 2017\Projects\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\RockPaperScissorsApp.pdb
+C:\Users\Sergio\documents\visual studio 2017\Projects\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\RockPaperScissorsApp.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\documents\visual studio 2017\Projects\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\RockPaperScissorsApp.exe
+C:\Users\Sergio\documents\visual studio 2017\Projects\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\RockPaperScissorsApp.pdb
